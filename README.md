@@ -48,7 +48,7 @@ Função que limpa os campos do formulario antes de realizar uma nova consulta
 
 ![acao-de-preenchimento](img/print-2.png)
 
-### Preencher o formulario (preencherFormulario)
+### Pre encher o formulario (preencherFormulario)
 
 Preenche os campos de rua, bairro, cidade e estado com os dados retornados pela API ViaCEP
 
