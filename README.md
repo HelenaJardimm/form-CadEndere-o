@@ -2,7 +2,7 @@
 # Formulário de Cadastro de Endereço com Consumo de API (ViaCEP)
 
 # Estrutura do projeto
- J
+
 HTML5: Para a estrutura do formulário.
 Bootstrap 5: Para o layout responsivo e componentes visuais como inputs e botões.
 JavaScript: Para a lógica do formulário, consumo da API e validação dos dados.
